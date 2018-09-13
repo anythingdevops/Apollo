@@ -1,4 +1,4 @@
-# Sample NodeJS application for VSTS and TFS docs
+# Sample NodeJS application for Azure DevOps
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/vsts/pipelines/languages/javascript).
 
