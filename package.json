@@ -25,6 +25,6 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "mocha tests/uitest.js"
+    "test": "mocha tests/test.js"
   }
 }
