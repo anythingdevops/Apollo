@@ -5,7 +5,7 @@ var path = require("path");
 
 // Constants
 const PORT = 80;
-const HOST = 'https://apollolaunch.azurewebsites.net';
+const HOST = 'https://launchapollo.azurewebsites.net';
 
 // App
 const app = express();
